@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\_GUI.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Load_TXT.cs" Line="88" Column="31" />
+      <File FileName="Assets\Scripts\_camera.cs" Line="125" Column="19" />
+      <File FileName="Assets\Scripts\_GUI.cs" Line="649" Column="84" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

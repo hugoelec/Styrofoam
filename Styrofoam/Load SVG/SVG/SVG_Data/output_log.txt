@@ -1,0 +1,45 @@
+Initialize engine version: 4.5.0f6 (fd4616464986)
+GfxDevice: creating device client; threaded=1
+d3d11: no D3D11 installed
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nv4_disp.dll 6.14.13.2018]
+    Renderer: NVIDIA GeForce 9400 GT 
+    Vendor:   NVIDIA
+    VRAM:     1024 MB (via registry)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Documents and Settings\Administrator\My Documents\Load SVG\SVG\SVG_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Documents and Settings\Administrator\My Documents\Load SVG\SVG\SVG_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Documents and Settings\Administrator\My Documents\Load SVG\SVG\SVG_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Documents and Settings\Administrator\My Documents\Load SVG\SVG\SVG_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Documents and Settings\Administrator\My Documents\Load SVG\SVG\SVG_Data\Managed\system.windows.forms.dll (this message is harmless)
+Loading C:\Documents and Settings\Administrator\My Documents\Load SVG\SVG\SVG_Data\Managed\system.windows.forms.dll into Unity Child Domain
+- Completed reload, in  0.072 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+Platform assembly: C:\Documents and Settings\Administrator\My Documents\Load SVG\SVG\SVG_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Documents and Settings\Administrator\My Documents\Load SVG\SVG\SVG_Data\Managed\System.Drawing.dll (this message is harmless)
+Platform assembly: C:\Documents and Settings\Administrator\My Documents\Load SVG\SVG\SVG_Data\Managed\Accessibility.dll (this message is harmless)
+Fallback handler could not load library C:/Documents and Settings/Administrator/My Documents/Load SVG/SVG/SVG_Data/Mono/libc
+Fallback handler could not load library C:/Documents and Settings/Administrator/My Documents/Load SVG/SVG/SVG_Data/Mono/.\libc
+Fallback handler could not load library C:/Documents and Settings/Administrator/My Documents/Load SVG/SVG/SVG_Data/Mono/libc
+Platform assembly: C:\Documents and Settings\Administrator\My Documents\Load SVG\SVG\SVG_Data\Managed\Mono.Posix.dll (this message is harmless)
+Fallback handler could not load library C:/Documents and Settings/Administrator/My Documents/Load SVG/SVG/SVG_Data/Mono/libc
+Fallback handler could not load library C:/Documents and Settings/Administrator/My Documents/Load SVG/SVG/SVG_Data/Mono/.\libc
+Fallback handler could not load library C:/Documents and Settings/Administrator/My Documents/Load SVG/SVG/SVG_Data/Mono/libc
+Fallback handler could not load library C:/Documents and Settings/Administrator/My Documents/Load SVG/SVG/SVG_Data/Mono/libX11
+Fallback handler could not load library C:/Documents and Settings/Administrator/My Documents/Load SVG/SVG/SVG_Data/Mono/.\libX11
+Fallback handler could not load library C:/Documents and Settings/Administrator/My Documents/Load SVG/SVG/SVG_Data/Mono/libX11
+Fallback handler could not load library C:/Documents and Settings/Administrator/My Documents/Load SVG/SVG/SVG_Data/Mono/libX11
+Fallback handler could not load library C:/Documents and Settings/Administrator/My Documents/Load SVG/SVG/SVG_Data/Mono/.\libX11
+Fallback handler could not load library C:/Documents and Settings/Administrator/My Documents/Load SVG/SVG/SVG_Data/Mono/libX11
+Fallback handler could not load library C:/Documents and Settings/Administrator/My Documents/Load SVG/SVG/SVG_Data/Mono/libX11
+Fallback handler could not load library C:/Documents and Settings/Administrator/My Documents/Load SVG/SVG/SVG_Data/Mono/.\libX11
+Fallback handler could not load library C:/Documents and Settings/Administrator/My Documents/Load SVG/SVG/SVG_Data/Mono/libX11
+Platform assembly: C:\Documents and Settings\Administrator\My Documents\Load SVG\SVG\SVG_Data\Managed\System.Xml.dll (this message is harmless)
+Fallback handler could not load library C:/Documents and Settings/Administrator/My Documents/Load SVG/SVG/SVG_Data/Mono/.\/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library C:/Documents and Settings/Administrator/My Documents/Load SVG/SVG/SVG_Data/Mono/lib/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library C:/Documents and Settings/Administrator/My Documents/Load SVG/SVG/SVG_Data/Mono/.\lib/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library C:/Documents and Settings/Administrator/My Documents/Load SVG/SVG/SVG_Data/Mono/lib/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon

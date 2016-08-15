@@ -1,0 +1,7 @@
+Mode=Styrofoam
+XY Feed Rate=300
+E Ring Value=360
+Z Height=200
+Multiply=1
+Mix error=0
+Zoom=1

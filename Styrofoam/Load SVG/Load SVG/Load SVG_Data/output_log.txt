@@ -1,0 +1,45 @@
+Initialize engine version: 4.5.1p4 (5a4e09912fc0)
+GfxDevice: creating device client; threaded=1
+d3d11: no D3D11 installed
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nv4_disp.dll 6.14.13.783]
+    Renderer: NVIDIA GeForce 6600 
+    Vendor:   NVIDIA
+    VRAM:     128 MB (via registry)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=0 NativeShadow=1 DF16=0 INTZ=0 RAWZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\zzzz\Styrofoam\Load SVG\Load SVG\Load SVG_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\zzzz\Styrofoam\Load SVG\Load SVG\Load SVG_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\zzzz\Styrofoam\Load SVG\Load SVG\Load SVG_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\zzzz\Styrofoam\Load SVG\Load SVG\Load SVG_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\zzzz\Styrofoam\Load SVG\Load SVG\Load SVG_Data\Managed\system.windows.forms.dll (this message is harmless)
+Loading D:\zzzz\Styrofoam\Load SVG\Load SVG\Load SVG_Data\Managed\system.windows.forms.dll into Unity Child Domain
+- Completed reload, in  0.070 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+Platform assembly: D:\zzzz\Styrofoam\Load SVG\Load SVG\Load SVG_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\zzzz\Styrofoam\Load SVG\Load SVG\Load SVG_Data\Managed\System.Drawing.dll (this message is harmless)
+Platform assembly: D:\zzzz\Styrofoam\Load SVG\Load SVG\Load SVG_Data\Managed\Accessibility.dll (this message is harmless)
+Fallback handler could not load library D:/zzzz/Styrofoam/Load SVG/Load SVG/Load SVG_Data/Mono/libc
+Fallback handler could not load library D:/zzzz/Styrofoam/Load SVG/Load SVG/Load SVG_Data/Mono/.\libc
+Fallback handler could not load library D:/zzzz/Styrofoam/Load SVG/Load SVG/Load SVG_Data/Mono/libc
+Platform assembly: D:\zzzz\Styrofoam\Load SVG\Load SVG\Load SVG_Data\Managed\Mono.Posix.dll (this message is harmless)
+Fallback handler could not load library D:/zzzz/Styrofoam/Load SVG/Load SVG/Load SVG_Data/Mono/libc
+Fallback handler could not load library D:/zzzz/Styrofoam/Load SVG/Load SVG/Load SVG_Data/Mono/.\libc
+Fallback handler could not load library D:/zzzz/Styrofoam/Load SVG/Load SVG/Load SVG_Data/Mono/libc
+Fallback handler could not load library D:/zzzz/Styrofoam/Load SVG/Load SVG/Load SVG_Data/Mono/libX11
+Fallback handler could not load library D:/zzzz/Styrofoam/Load SVG/Load SVG/Load SVG_Data/Mono/.\libX11
+Fallback handler could not load library D:/zzzz/Styrofoam/Load SVG/Load SVG/Load SVG_Data/Mono/libX11
+Fallback handler could not load library D:/zzzz/Styrofoam/Load SVG/Load SVG/Load SVG_Data/Mono/libX11
+Fallback handler could not load library D:/zzzz/Styrofoam/Load SVG/Load SVG/Load SVG_Data/Mono/.\libX11
+Fallback handler could not load library D:/zzzz/Styrofoam/Load SVG/Load SVG/Load SVG_Data/Mono/libX11
+Fallback handler could not load library D:/zzzz/Styrofoam/Load SVG/Load SVG/Load SVG_Data/Mono/libX11
+Fallback handler could not load library D:/zzzz/Styrofoam/Load SVG/Load SVG/Load SVG_Data/Mono/.\libX11
+Fallback handler could not load library D:/zzzz/Styrofoam/Load SVG/Load SVG/Load SVG_Data/Mono/libX11
+Platform assembly: D:\zzzz\Styrofoam\Load SVG\Load SVG\Load SVG_Data\Managed\System.Xml.dll (this message is harmless)
+Fallback handler could not load library D:/zzzz/Styrofoam/Load SVG/Load SVG/Load SVG_Data/Mono/.\/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library D:/zzzz/Styrofoam/Load SVG/Load SVG/Load SVG_Data/Mono/lib/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library D:/zzzz/Styrofoam/Load SVG/Load SVG/Load SVG_Data/Mono/.\lib/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library D:/zzzz/Styrofoam/Load SVG/Load SVG/Load SVG_Data/Mono/lib/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon

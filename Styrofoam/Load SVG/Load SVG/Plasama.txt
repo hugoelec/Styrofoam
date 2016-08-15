@@ -1,0 +1,21 @@
+Mode=Plasama
+continue=
+G1 Z0.1 F1500
+G4 P100
+M441
+G1 Z0 F1500
+G4 P2000
+
+pause=
+G1 Z0.1 F1500
+G4 P100
+M440
+G1 Z0 F1500
+G4 P1000
+
+XY Feed Rate=1500
+E Ring Value=360
+Z Height=200
+Multiply=1
+Mix error=0
+Zoom=1
